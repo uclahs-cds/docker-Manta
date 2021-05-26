@@ -4,7 +4,7 @@ Dockerfile for Manta, a tool for calling "structural variants (SVs) and indels f
 The image is located in the Boutros Lab Docker Hub repository: https://hub.docker.com/repository/docker/blcdsdockerregistry/manta
 
 # Documentation
-Manta main website & GitHub repository[here](https://github.com/Illumina/manta)
+Manta main website & GitHub repository [here](https://github.com/Illumina/manta)
 
 Manta documentation [here](https://github.com/Illumina/manta/blob/master/docs/userGuide/README.md)
 
