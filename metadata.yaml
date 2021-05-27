@@ -3,9 +3,9 @@ Category: 'docker'
 Description: 'Docker repository for Manta'
 Maintainers: ['tsanders@mednet.ucla.edu']
 Contributors: ['Tim Sanders']
-Languages: ['bash']
+Languages: ['Dockerfile']
 Tools: ['Manta']
 Version: ['1.6.0']
 Purpose of tool: 'Structural variant and indel caller for mapped sequencing data'
-Dependencies: ['docker', 'conda', 'bl-base']
+Dependencies: ['docker', 'bl-base']
 References: 'https://github.com/Illumina/manta'
