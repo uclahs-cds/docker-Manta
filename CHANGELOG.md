@@ -7,6 +7,6 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ---
 
-## [1.6.0] - 2021-05-26
+## [1.6.0] - 2021-06-16
 ### Added
 - Added new repository for Manta Dockerfile
