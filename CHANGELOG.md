@@ -8,17 +8,19 @@ This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 ---
 ## [1.6.0] - 2024-03-29
 ### Added
-- `bldocker` as group and user
-- set `bldocker` as default user
+- Add `Docker-build-release.yaml` to repo
+- Add `bldocker` as group and user to Dockerfile
+- Set `bldocker` as default user
 
 ### Changed
+- Update CICD-base docker registry to `ghcr.io/uclahs-cds`
 - Standardize `README.md`
 - Standardize `metadata.yaml`
 - Standardize Dockerfile
 - Use condaforge as builder
 
 ### Removed
-- `blcdsdockerregistry/bl-base` as builder
+- Remove `blcdsdockerregistry/bl-base` as builder
 
 ---
 
