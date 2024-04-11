@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ---
-## [1.6.0] - 2024-03-29
+## [1.6.0] - 2024-04-11
 ### Added
 - Add PR template to repo
 - Add `Docker-build-release.yaml` to repo
