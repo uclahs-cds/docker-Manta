@@ -1,10 +1,10 @@
 ---
-Category: 'docker'
-Description: 'Docker repository for Manta'
-Maintainers: ['tsanders@mednet.ucla.edu']
-Contributors: ['Tim Sanders']
-Languages: ['Dockerfile']
-Tools: ['Manta']
-Version: ['1.6.0']
-Purpose of tool: 'Structural variant and indel caller for mapped sequencing data'
-References: 'https://github.com/Illumina/manta'
+category: 'docker'
+description: 'Docker repository for Manta'
+maintainers: ['mmootor@mednet.ucla.edu']
+languages: ['Dockerfile']
+tools: ['Manta']
+version: ['1.6.0']
+purpose: 'Structural variant and indel caller for mapped sequencing data'
+references: 'https://github.com/Illumina/manta'
+image_name: 'manta'
